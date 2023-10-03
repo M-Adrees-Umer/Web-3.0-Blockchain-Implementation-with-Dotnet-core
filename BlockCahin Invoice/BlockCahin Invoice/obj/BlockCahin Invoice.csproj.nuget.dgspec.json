@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Raheem Solutions\\AD Raheem Solutions\\BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\BlockCahin Invoice.csproj": {}
+    "D:\\Adrees Umer\\Git Hubs\\.Net-BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\BlockCahin Invoice.csproj": {}
   },
   "projects": {
-    "D:\\Raheem Solutions\\AD Raheem Solutions\\BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\BlockCahin Invoice.csproj": {
+    "D:\\Adrees Umer\\Git Hubs\\.Net-BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\BlockCahin Invoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Raheem Solutions\\AD Raheem Solutions\\BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\BlockCahin Invoice.csproj",
+        "projectUniqueName": "D:\\Adrees Umer\\Git Hubs\\.Net-BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\BlockCahin Invoice.csproj",
         "projectName": "BlockCahin Invoice",
-        "projectPath": "D:\\Raheem Solutions\\AD Raheem Solutions\\BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\BlockCahin Invoice.csproj",
+        "projectPath": "D:\\Adrees Umer\\Git Hubs\\.Net-BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\BlockCahin Invoice.csproj",
         "packagesPath": "C:\\Users\\AdreesUmer\\.nuget\\packages\\",
-        "outputPath": "D:\\Raheem Solutions\\AD Raheem Solutions\\BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\obj\\",
+        "outputPath": "D:\\Adrees Umer\\Git Hubs\\.Net-BlockChain\\BlockCahin Invoice\\BlockCahin Invoice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
